@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script type="text/javascript">
+
+        var info = navigator.userAgent.toLowerCase();
+        var oslmg = null;
+
+        if (info.indexOf("windows") >= 0) {
+            oslmg = "windows.png";
+        } else if (info.indexOf("macintosh")>=0){
+            oslmg = "macintosh.png";
+        } else if (info.indexOf("iphone")>=0){
+            oslmg = "iphone.png";
+        } else if(info.indexOf("android")>=0){
+            oslmg = "android.png"
+        }
+
+        document.write("<img src=\"images/"+oslmg+"\">","<br>");
+        var scr = screen;
+        var sc_w = src.width;
+        var sc_h = src.height;
+
+        document.write("모니터 해상도 너비 : "+sc_w+"px","<br>");
+        document.write("모니터 해상도 높이 : "+sc_h+"px","<br>");
+    </script>
+</head>
+<body>
+
+
+</body>
+</html>

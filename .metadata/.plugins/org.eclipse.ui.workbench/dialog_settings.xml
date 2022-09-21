@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_EXPORT_WIZARD_ID" value="org.eclipse.ui.wizards.export.ZipFile"/>
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.ZipFile"/>
+		<list key="ImportExportPage.STORE_EXPANDED_EXPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="ZipFileExportWizard">
+		<item key="WizardZipFileResourceExportPage1.STORE_CREATE_STRUCTURE_ID" value="true"/>
+		<item key="WizardZipFileResourceExportPage1.STORE_COMPRESS_CONTENTS_ID" value="true"/>
+		<list key="WizardZipFileResourceExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\i7A-56\Desktop\자바 0810.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\0804 자바 백업.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\윤건수.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\0721 백업.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\chap19.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\chap18.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\chap17.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\0713.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\0706.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\6.30 저장.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\~6,28 저장.zip"/>
+		</list>
+	</section>
+	<section name="ZipFileImportWizard">
+		<item key="WizardZipFileResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<list key="WizardZipFileResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\i7A-56\Desktop\TestPoject01.zip"/>
+			<item value="C:\Users\i7A-56\Desktop\chap16_2.zip"/>
+		</list>
+	</section>
+	<section name="PreferencesImportWizard">
+		<item key="" value="C:\Users\i7A-56\Downloads\RainbowDrops.epf"/>
+		<list key="WizardPreferencesExportPage1.STORE_DESTINATION_NAMES_ID">
+			<item value="C:\Users\i7A-56\Downloads\RainbowDrops.epf"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.preferences.keysPreferencePage">
+		<item key="actionSetFilter" value="true"/>
+		<item key="internalFilter" value="true"/>
+		<item key="uncategorizedFilter" value="true"/>
+	</section>
+</section>
